@@ -62,3 +62,5 @@ tools/gen_architecture_graph.py
 tools/test_transparent_png.py
 tools/test_icon_picker.py
 tools/test_output/
+
+.idea
